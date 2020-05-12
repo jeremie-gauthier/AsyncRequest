@@ -14,6 +14,8 @@ Here are the features:
 - **async**/**await** notation
 - send data in **JSON**
 
+This could have been enhanced with **TypeScript** but the school project doesn't allow it.
+
 ## Getting started
 
 Just include the AsyncRequest.js where you want to use it.
